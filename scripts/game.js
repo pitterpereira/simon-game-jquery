@@ -70,10 +70,9 @@ function animarClique(botao) {
 }
 
 function checarResposta(levelAtual) {
-
+    
     if (padraoDoJogo[levelAtual] === padraoDoUsuario[levelAtual]) {
         if (padraoDoJogo.length === padraoDoUsuario.length) {
-            console.log("acertou");
             setTimeout(function () {
                 proximaSequencia();
             }, 1000);
