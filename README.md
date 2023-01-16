@@ -11,11 +11,12 @@ Um jogo Simon feito em JS e JQuery.
 
 Para jogar, basta teclar a letra "a" e ir clicando nas caixas coloridas, seguindo o padrão determinado pelo computador a cada rodada.
 
-Um exercício do curso: [The Complete 2022 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) da App Brewery (com alguns pequenos toques pessoais adicionados 😉).
+Um exercício do curso: [The Complete 2022 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) da App Brewery 
+(com alguns pequenos toques pessoais adicionados 😉).
 
 ## Comentários
 
 Não foi feito utilizando laço de repetição.
 
-[Clique aqui](https://en.wikipedia.org/wiki/Simon_(game)) para ir para a página do jogo Simon na Wikipedia.
+[Clique aqui](https://en.wikipedia.org/wiki/Simon_(game)){:target="_blank"} para ir para a página do jogo Simon na Wikipedia.
 
