@@ -18,5 +18,5 @@ Um exercício do curso: [The Complete 2022 Web Development Bootcamp](https://www
 
 Não foi feito utilizando laço de repetição.
 
-[Clique aqui](https://en.wikipedia.org/wiki/Simon_(game)) para ir para a página do jogo Simon na Wikipedia.
+Página do jogo Simon na [Wikipedia](https://en.wikipedia.org/wiki/Simon_(game)).
 
