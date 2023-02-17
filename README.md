@@ -2,8 +2,9 @@
 # Simon Game 
 > (No Brasil é conhecido como Genius)
 
-🟢🔴
-🟡🔵
+🟢 🔴
+<br>
+🟡 🔵
 
 Um jogo Simon feito em JS e JQuery.
 
