@@ -7,6 +7,12 @@
 
 Um jogo Simon feito em JS e JQuery.
 
+<br>
+
+![Simon Game](https://user-images.githubusercontent.com/9722670/219538258-5f5907c3-59be-4f13-a953-bba8aba6ad33.gif)
+
+<br>
+
 É um jogo de memória onde você deve repetir o padrão definido pelo computador. A cada iteração, o computador adiciona uma nova cor ao padrão e o jogador deve repetir o padrão desde o início, acrescentando o último proposto.
 
 Para jogar, basta teclar a letra "a" e ir clicando nas caixas coloridas, seguindo o padrão determinado pelo computador a cada rodada.
