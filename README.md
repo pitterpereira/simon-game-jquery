@@ -1,5 +1,6 @@
 
 # Simon Game 
+---
 > (No Brasil é conhecido como Genius)
 
 🟢 🔴
